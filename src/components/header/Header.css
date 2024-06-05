@@ -1,0 +1,14 @@
+h2 {
+    font-size: 18px;
+}
+h4 {
+    display: flex;
+    flex-direction: row;
+    width: 166px;
+    height: 40px;
+    align-items: center;
+}
+img {
+    width: 20px;
+    height: 20px;
+}

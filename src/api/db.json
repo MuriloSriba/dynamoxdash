@@ -1,0 +1,14 @@
+{
+    "dados": [
+        {
+            "id": 1,
+            "nome": "Maquina1",
+            "number": 2057
+        },
+        {
+            "id": 2,
+            "nome": "Maquina2",
+            "number": 2058
+        }
+    ]
+}
